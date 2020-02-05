@@ -1,0 +1,15 @@
+{
+	"name": "codepipeline-notification",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "./deploy.sh"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"moment-timezone": "^0.5.27",
+		"slack-node": "^0.1.8"
+	}
+}
