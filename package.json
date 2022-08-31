@@ -9,7 +9,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
-		"moment-timezone": "^0.5.27",
+		"moment-timezone": "^0.5.35",
 		"slack-node": "^0.1.8"
 	}
 }
